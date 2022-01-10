@@ -14,3 +14,11 @@
 #4 Passo criei minha conta em Hashnode e tentei link a mesma para blog.paulorabelo.dev.br (hospedado em Vercel) sem sucesso aqui estou batendo cabeça e ainda não consegui solucionar o problema de DNS já que o serviço da Hashnode e hospedada na Vercel também e isso está impedindo o serviço de funcionar.
 
 E é isso por hoje até amanhã.
+
+
+
+### Dia 1: 10 de janeiro, 2022
+
+**Progresso do dia:** Avancei no Curso Relational Database Course até 18%
+
+**Aprendizados:** Iniciei o módulo chamado [Learn Bash by Building a Boilerplate](https://www.freecodecamp.org/news/how-to-run-freecodecamps-relational-databases-curriculum-using-docker-vscode-and-coderoad/#:~:text=to%20start%20it.-,Learn%20Bash%20by%20Building%20a%20Boilerplate,-Learn%20Relational%20Databases) o qual até o momento ensina comandos de bash como listar, trocar de diretorios e ver o conteúdo dos arquivos sem abrir os mesmos muito legal, não consegui avançar mais pois passei horas tentando descobrir porque o terminal no VS Code não abria e deve ser o "bug" no curso que pretendo relatar, o que acontece eu instalei um novo terminal chamado Zsh e o sistema do curso funciona apenas dentro do BASH ao descobrir isso consegui seguir com o curso.
