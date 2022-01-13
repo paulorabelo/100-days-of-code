@@ -28,3 +28,11 @@ E é isso por hoje até amanhã.
 **Progresso do dia:** Avancei no Curso Relational Database Course - Terminei primeiro módulo.
 
 **Aprendizados:** Finalizei o módulo chamado [Learn Bash by Building a Boilerplate](https://www.freecodecamp.org/news/how-to-run-freecodecamps-relational-databases-curriculum-using-docker-vscode-and-coderoad/#:~:text=to%20start%20it.-,Learn%20Bash%20by%20Building%20a%20Boilerplate,-Learn%20Relational%20Databases) aprendi diversos comandos do terminal bash entre eles: cp, mv, rm, mkdir, rmdir, touch, more, ls e alguns de seus argumentos ex: ls -la --> lista longa incluindo arquivos ocultos e rmdir -r [pasta] --> que apaga recursivamente a pasta e todo seu conteúdo (muito cuidado com esse comando).
+
+
+
+### Dia 3: 12 de janeiro, 2022
+
+**Progresso do dia:** Completei o módulo Applied Visual Design.
+
+**Aprendizados:** Completei o módulo Applied Visual Design do curso Responsive Web Design e comecei um curso de treinamento par LPIC 1 (Linux System Administrator Level 1).
