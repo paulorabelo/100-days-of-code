@@ -36,3 +36,11 @@ E é isso por hoje até amanhã.
 **Progresso do dia:** Completei o módulo Applied Visual Design.
 
 **Aprendizados:** Completei o módulo Applied Visual Design do curso Responsive Web Design e comecei um curso de treinamento par LPIC 1 (Linux System Administrator Level 1).
+
+
+
+### Dia 4: 13 de janeiro, 2022
+
+**Progresso do dia:** Iniciei o módulo Applied Accessibility.
+
+**Aprendizados:** Iniciei o módulo Applied Accessibility do curso Responsive Web Design e aprendi sobre virtualização em linux utilizado QEMU, baixei algumas imagens de sistemas diferentes das que uso para virtualizar e testar o QEMU e como ele é rápido em comparação ao VirtualBox.
